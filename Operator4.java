@@ -1,4 +1,4 @@
- //find maximum of 2 numbers
+ //find maximum of 2 numbers.
 import java.util.Scanner;
 public class Operator4 {
 public static void main(String[] args) {
