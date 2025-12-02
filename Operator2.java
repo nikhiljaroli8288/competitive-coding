@@ -1,3 +1,4 @@
+//subtraction of 2 numbers
 public class Operator2 {
      public static void main(String[] args) {
         int a = 10;     // first number
