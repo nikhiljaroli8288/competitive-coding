@@ -16,6 +16,6 @@ public class nikhil {
         else
             bill = (100 * 5) + (100 * 7) + (units - 200) * 10;
 
-        System.out.println("Total Bill = " + bill);
+        System.out.println("Total Bill  = " + bill);
     }
 }
